@@ -18,5 +18,6 @@ int main(void)
 	int g = 0;
     int i = 0;
     int aa = 0;
+    int bb = 0;
     return 0;
 }
