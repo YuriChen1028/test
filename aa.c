@@ -15,5 +15,7 @@ int main(void)
 	int e = 0;
     int f = 0;
     int h = 0;
+	int g = 0;
+
     return 0;
 }
