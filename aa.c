@@ -22,5 +22,6 @@ int main(void)
     int cc = 0;
     int dd = 0;
     int ee = 0;
+    int ff = 0;
     return 0;
 }
