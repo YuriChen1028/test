@@ -19,5 +19,6 @@ int main(void)
     int i = 0;
     int aa = 0;
     int bb = 0;
+    int cc = 0;
     return 0;
 }
